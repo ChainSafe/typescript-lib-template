@@ -1,5 +1,5 @@
 {
-    "name": "@chainsafe/typescript--lib-template",
+    "name": "",
     "version": "0.0.1",
     "description": "",
     "main": "lib/index.js",
@@ -19,14 +19,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/ChainSafe/typescript-lib-template.git"
+        "url": "git+https://github.com/ChainSafe/.git"
     },
     "author": "ChainSafe Systems",
     "license": "Apache-2.0",
     "bugs": {
-        "url": "https://github.com/ChainSafe/typescript-lib-template/issues"
+        "url": "https://github.com/ChainSafe//issues"
     },
-    "homepage": "https://github.com/ChainSafe/typescript-lib-template#readme",
+    "homepage": "https://github.com/ChainSafe/#readme",
     "devDependencies": {
         "@babel/cli": "^7.2.3",
         "@babel/core": "^7.3.3",
